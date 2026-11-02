@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет! Я Фёдор Куликов
 
-<!--
-**FedorKulikov/FedorKulikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Аспирант 1-го курса ИКТИБ ЮФУ по специальности 2.3.8 «Информатика и информационные процессы».
 
-Here are some ideas to get you started:
+Мой интерес — машинное обучение и обработка естественного языка (NLP). Хочу развиваться в анализе текста, извлечении информации и применении языковых моделей для решения практических задач.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии и инструменты
+
+- **Языки:** Python, C++
+- **Обработка данных:** NumPy, pandas
+- **ML:** scikit-learn
+- **Разработка:** FastAPI, Git, GitHub
+
+Сейчас углубляю знания в машинном обучении, NLP и работе с языковыми моделями.
+
+## Избранные проекты
+
+### [Signal](https://github.com/FedorKulikov/Signal)
+Учебное приложение на C++/Qt для обработки и визуализации сигналов.
+
+### [YOLOv3 Face Blurring](https://github.com/FedorKulikov/-YOLOv3)
+Учебный проект на Python и OpenCV для обнаружения лиц и размытия их областей на изображениях и видео.
+
+### [Jing](https://github.com/FedorKulikov/Jing)
+Небольшое приложение на FastAPI для потокового воспроизведения аудио и переключения треков.
+
+## Цель
+
+Ищу стажировку или позицию начинающего специалиста в AI/NLP, машинном обучении или Python-разработке. Особенно интересны задачи анализа текста, классификации и извлечения структурированной информации.
